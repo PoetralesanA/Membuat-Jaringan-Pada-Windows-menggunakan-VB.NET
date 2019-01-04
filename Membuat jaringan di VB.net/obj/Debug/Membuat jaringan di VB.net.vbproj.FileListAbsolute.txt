@@ -1,0 +1,27 @@
+C:\Users\User\AppData\Local\Temporary Projects\Membuat jaringan di VB.net\bin\Debug\Membuat jaringan di VB.net.exe
+C:\Users\User\AppData\Local\Temporary Projects\Membuat jaringan di VB.net\bin\Debug\Membuat jaringan di VB.net.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Membuat jaringan di VB.net\bin\Debug\Membuat jaringan di VB.net.xml
+C:\Users\User\AppData\Local\Temporary Projects\Membuat jaringan di VB.net\obj\Debug\Membuat_jaringan_di_VB.net.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Membuat jaringan di VB.net\obj\Debug\Membuat_jaringan_di_VB.net.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Membuat jaringan di VB.net\obj\Debug\Membuat jaringan di VB.net.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Membuat jaringan di VB.net\obj\Debug\Membuat jaringan di VB.net.exe
+C:\Users\User\AppData\Local\Temporary Projects\Membuat jaringan di VB.net\obj\Debug\Membuat jaringan di VB.net.xml
+C:\Users\User\AppData\Local\Temporary Projects\Membuat jaringan di VB.net\obj\Debug\Membuat jaringan di VB.net.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Membuat jaringan di VB.net\Membuat jaringan di VB.net\bin\Debug\Membuat jaringan di VB.net.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Membuat jaringan di VB.net\Membuat jaringan di VB.net\bin\Debug\Membuat jaringan di VB.net.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Membuat jaringan di VB.net\Membuat jaringan di VB.net\bin\Debug\Membuat jaringan di VB.net.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Membuat jaringan di VB.net\Membuat jaringan di VB.net\obj\Debug\Membuat_jaringan_di_VB.net.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Membuat jaringan di VB.net\Membuat jaringan di VB.net\obj\Debug\Membuat_jaringan_di_VB.net.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Membuat jaringan di VB.net\Membuat jaringan di VB.net\obj\Debug\Membuat jaringan di VB.net.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Membuat jaringan di VB.net\Membuat jaringan di VB.net\obj\Debug\Membuat jaringan di VB.net.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Membuat jaringan di VB.net\Membuat jaringan di VB.net\obj\Debug\Membuat jaringan di VB.net.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Membuat jaringan di VB.net\Membuat jaringan di VB.net\obj\Debug\Membuat jaringan di VB.net.pdb
+E:\VB.NET\Projectku\Training\Membuat jaringan di VB.net\Membuat jaringan di VB.net\obj\Debug\Membuat jaringan di VB.net.exe
+E:\VB.NET\Projectku\Training\Membuat jaringan di VB.net\Membuat jaringan di VB.net\obj\Debug\Membuat jaringan di VB.net.xml
+E:\VB.NET\Projectku\Training\Membuat jaringan di VB.net\Membuat jaringan di VB.net\obj\Debug\Membuat jaringan di VB.net.pdb
+E:\VB.NET\Projectku\Training\Membuat jaringan di VB.net\Membuat jaringan di VB.net\bin\Debug\Membuat jaringan di VB.net.exe
+E:\VB.NET\Projectku\Training\Membuat jaringan di VB.net\Membuat jaringan di VB.net\bin\Debug\Membuat jaringan di VB.net.pdb
+E:\VB.NET\Projectku\Training\Membuat jaringan di VB.net\Membuat jaringan di VB.net\bin\Debug\Membuat jaringan di VB.net.xml
+E:\VB.NET\Projectku\Training\Membuat jaringan di VB.net\Membuat jaringan di VB.net\obj\Debug\Membuat_jaringan_di_VB.net.Resources.resources
+E:\VB.NET\Projectku\Training\Membuat jaringan di VB.net\Membuat jaringan di VB.net\obj\Debug\Membuat jaringan di VB.net.vbproj.GenerateResource.Cache
+E:\VB.NET\Projectku\Training\Membuat jaringan di VB.net\Membuat jaringan di VB.net\obj\Debug\Membuat_jaringan_di_VB.net.MauApaNak.resources
